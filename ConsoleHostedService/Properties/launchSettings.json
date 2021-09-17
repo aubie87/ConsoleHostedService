@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleHostedService": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Michael\\Documents"
+    }
+  }
+}
